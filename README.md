@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Riza Ad Dzikri Setiawan  
+Welcome to my GitHub profile! 🚀
+I am a vocational high school student majoring in IT, specifically **Software and Game Development (PPLG)**.  
 
-Welcome to my GitHub profile! 🚀  
-Aku Adalah Seorang Pelajar SMK Yang Memilih Bidang IT Atau PPLG (Pengembangan Perangkat Lunak dan Gim 
-Dan Selain Bidang IT aku juga lumayan memiliki ketertarikan di bidang bahasa dan aku juga sudah mengikuti dan memiliki 3 seritifkasi bahasa diantaranya
-Jepang,Inggris,Indonesia Dan Juga Mengikuti Ujian Atau Sertifikasi Nya Langsung Diantara nya
--JLCT (Japanese Language Capability Test)
--TOEIC (Test Of English For International Communication
--UKBI (Uji Kemahiran Bahasa Indonesia)
+Besides IT, I also have a strong interest in languages. I have earned **three language certifications**:  
+- **JLCT** (Japanese Language Capability Test)  
+- **TOEIC** (Test of English for International Communication)  
+- **UKBI** (Uji Kemahiran Bahasa Indonesia / Indonesian Language Proficiency Test)  
+
+All of these certifications were obtained by taking the official exams directly. 🌍✨  
 
 ---
 
