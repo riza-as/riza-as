@@ -14,7 +14,7 @@ All of these certifications were obtained by taking the official exams directly.
 - **Languages**: PHP, HTML, CSS  
 - **Frameworks**: CodeIgniter 4, Laravel 11, Tailwind CSS  
 - **Database**: MySQL, MariaDB  
-- **Tools**: Git, VS Code, Postman  
+- **Tools**: Git, VS Code,   
 
 ---
 
@@ -26,7 +26,7 @@ All of these certifications were obtained by taking the official exams directly.
 ---
 
 ## ✨ Fun Facts
-- I don’t like math 😅 but I love solving Logic Like Rubik,Slidder Number Puzzle 
+- I don’t like math 😅 but I love solving Logic Like Rubik and Slidder Number Puzzle 
 - People often say I have a **baby face but cool vibe**.  
 - I enjoy learning step by step and making things simple & practical.  
 
