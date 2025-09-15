@@ -20,7 +20,7 @@ All of these certifications were obtained by taking the official exams directly.
 
 ## 📈 What I’m Working On
 - 🚀 Student SMK Wikrama 1 Garut   
-- 📚 Konseling Apps with CodeIgniter 4, POS Apps With Laravel 11, 
+- 📚 Schedule Konseling Apps with CodeIgniter 4, POS Apps With Laravel 11, 
 - 🎨 Landing Pages + Tailwind CSS experiments  
 
 ---
