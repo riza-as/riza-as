@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hai! Saya Riza Ad Dzikri Setiawan Seorang pelajar yang sedang mendalami web development. Saat ini sedang magang untuk memperluas skill di front-end dan back-end. Selalu antusias belajar teknologi baru dan berbagi progres proyek melalui GitHub. Terima kasih sudah mampir!
+
 <!--
 **riza-as/riza-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
