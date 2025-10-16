@@ -13,7 +13,7 @@ All of these certifications were obtained by taking the official exams directly.
 ## 🛠️ Tech Stack
 - **Languages**: PHP, HTML, CSS  
 - **Frameworks**: CodeIgniter 4, Laravel 11, Tailwind CSS  
-- **Database**: MySQL, MariaDB  
+- **Database**: MySQL, PHPMyAdmin 
 - **Tools**: Git, VS Code,   
 
 ---
